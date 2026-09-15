@@ -1,6 +1,3 @@
-## 🛒 E-Commerce Platform (Microservices Architecture)
-A scalable, modular E-Commerce platform built using a microservices architecture. This project focuses on high availability, independent service scalability, and a modern, responsive user interface.
-
 ## 📸 Project Preview
 (Replace the links below with your actual screenshot paths)
 
